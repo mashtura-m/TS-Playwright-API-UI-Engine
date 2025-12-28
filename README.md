@@ -52,3 +52,21 @@ TS-Playwright-API-UI-Engine/
 │   └── ui/               # Component & Layout tests
 ├── playwright.config.ts  # Engine configuration
 └── package.json          # Dependencies & execution scripts
+```
+---
+
+## 📜 License
+
+Distributed under the **MIT License**. See `LICENSE` for more information. This allows for free use, modification, and distribution in both private and commercial projects.
+
+---
+
+## 📧 Contact
+
+**mashtura Mazed** *Automation Specialist*
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mzmashtura@gmail.com)
+
+**Project Link:** [https://github.com/mashtura-m/TS-Playwright-API-UI-Engine](https://github.com/mashtura-m/TS-Playwright-API-UI-Engine)
+
+---
